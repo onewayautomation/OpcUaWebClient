@@ -5,3 +5,5 @@ It is built using OPC UA SDK from One-Way Automation (https://github.com/onewaya
 In this repository you can report issues and enter requests for new features.
 
 If you are interested on getting source code or installer with pre-built binaries of the OPC UA Web Client to run your own instance, or include its installer into your product's distribution package, please contact One-Way Automation at http://onewayautomation.com/index.php/contact-us
+
+Introduction video demonstrating how to use the demo instance of this application is vailable at YouTube: https://youtu.be/o-cZ08Ssr0M.
